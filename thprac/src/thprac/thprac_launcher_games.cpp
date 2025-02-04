@@ -2256,7 +2256,6 @@ public:
     void GameTable(const char* title, THGameCatagory catagory)
     {
         int columns = 1;
-        int i = 0;
 
         ImGui::TextUnformatted(title);
         ImGui::Columns(columns);

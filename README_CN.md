@@ -29,7 +29,7 @@
 
 ### 在游戏文件夹内启动 thprac
 
-**此方法不适用于 Steam 版游戏。**你可以将 `thprac.exe` 放到游戏的文件夹下。若使用此方法，thprac 会自动检查是否有 vpatch。你需要确保游戏已更新到最新版，且游戏的可执行文件名符合下述规则：
+**此方法不适用于 Steam 版游戏。** 你可以将 `thprac.exe` 放到游戏的文件夹下。若使用此方法，thprac 会自动检查是否有 vpatch。你需要确保游戏已更新到最新版，且游戏的可执行文件名符合下述规则：
 
 - thXX.exe（大多数游戏）
 - 東方紅魔郷.exe（红魔乡）
@@ -37,7 +37,7 @@
 
 ### 启动游戏后再启动 thprac
 
-**大多数情况下此方法都适用。**首先，以任意方式运行游戏（通过 thcrap、vpatch、Steam、等等），然后启动 `thprac.exe`。thprac 会检查目前正在运行的游戏并尝试对其应用 thprac。你可能需要返回一次主菜单才能使 thprac 生效。
+**大多数情况下此方法都适用。** 首先，以任意方式运行游戏（通过 thcrap、vpatch、Steam、等等），然后启动 `thprac.exe`。thprac 会检查目前正在运行的游戏并尝试对其应用 thprac。你可能需要返回一次主菜单才能使 thprac 生效。
 
 ### 使用 thprac 自带的启动器
 
@@ -62,7 +62,7 @@ thprac 使用上图中的 UI 替代了原版的练习菜单。对于一些特定
 
 您可以用键盘或手柄控制练习菜单。在此菜单中，可以用 UP 或DOWN 选择选项，并用 LEFT 或 RIGHT 更改选项。您也可以用鼠标操作菜单。最后按下 SHOT 确认.
 
-Thprac 会自动将您输入的选项保存到 replay 中，播放 replay 时，thcrap 会自动应用这些选项。 **使用 thcrap 游玩和“自定义”模式练习的 replay 不适用于原版游戏**
+Thprac 会自动将您输入的选项保存到 replay 中，播放 replay 时，thcrap 会自动应用这些选项。**使用 thcrap 游玩和“自定义”模式练习的 replay 不适用于原版游戏**。
 
 ## <a name="backspace-menu"></a> 退格键菜单
 
@@ -93,12 +93,14 @@ Thprac 会自动将您输入的选项保存到 replay 中，播放 replay 时，
 
 ![TH19 Tools](https://github.com/touhouworldcup/thprac/assets/23106652/a2cdb385-b61d-4111-af6b-b195e85bf18a)
 
+与花映冢中的实用工具类似。
+
 ### 红魔乡：暂停菜单
 
 ![TH06](https://user-images.githubusercontent.com/23106652/174436027-734d642a-300c-45ab-9591-b6219aca087b.png)
 选择“退出游戏”时，游戏将提示您保存 replay。
 
-**警告：**这样保存的 replay 在您选择保存的时间点后还会继续播放。在此之后自机会停止不动并且停止射击。
+**警告：** 这样保存的 replay 在您选择保存的时间点后还会继续播放。在此之后自机会停止不动并且停止射击。
 
 ### 秘封噩梦日记、鬼形兽、虹龙洞：为 ESC + R 提供 bug 修复
 
